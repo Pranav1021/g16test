@@ -2,4 +2,10 @@ heyyy
 
 welcome to github.
 
+<<<<<<< HEAD
 we r in master
+=======
+text is in master
+
+heyy it is in activity1
+>>>>>>> activity1
