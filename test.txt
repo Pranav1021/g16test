@@ -1,3 +1,7 @@
 heyyy
 
 welcome to github.
+
+text is in master
+
+heyy it is in activity1
