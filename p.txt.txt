@@ -1,0 +1,12 @@
+1. Ls- open directory
+2. Clear
+3. MKdir- Make directory: folder/file
+4. Cd "":- Change directory
+5. touch- create afile
+6. git init- initialize empty git folder
+7. git add "filename"- file added in git depository
+8. git commit -m"......" - give a command
+9. git log- check log status of git
+10. git add .a/git add -A  /--- Add all files
+11. git commit -m -a "....." - commit all files simultaneously
+12.  
