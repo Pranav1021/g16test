@@ -9,4 +9,4 @@
 9. git log- check log status of git
 10. git add .a/git add -A  /--- Add all files
 11. git commit -m -a "....." - commit all files simultaneously
-12.  
+12. ENd  
